@@ -6,7 +6,6 @@
 package studentlist;
 
 import java.util.Scanner; 
-import content.Student; 
 
 public class Main {
 

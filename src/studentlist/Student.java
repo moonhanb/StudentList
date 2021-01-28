@@ -2,7 +2,7 @@
  * Han Byul Moon
  * 
  */
-package content;
+package studentlist;
 
 
 public class Student {
