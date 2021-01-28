@@ -1,6 +1,6 @@
 /*
  * Han Byul Moon
- * Student ID: 991 624 436
+ * 
  * January 28, 2021
  */
 package studentlist;
