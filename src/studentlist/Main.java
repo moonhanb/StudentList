@@ -12,8 +12,7 @@ public class Main {
     
     public static void main(String[] args) {
         
-        //changed array to 5
-        Student[] studentList = new Student[5]; 
+        Student[] studentList = new Student[4]; 
         
         Scanner input = new Scanner(System.in); 
         
