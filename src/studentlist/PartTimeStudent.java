@@ -3,7 +3,7 @@ package studentlist;
 
 /**
  *
- * @author Han Byul Moon
+ * @author Han Byul Moon Jan 28, 2021
  */
 public class PartTimeStudent extends Student{
     
